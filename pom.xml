@@ -210,7 +210,7 @@
     </dependencies>
 
     <properties>
-        <spring.version>4.2.0.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
 
     <!-- Build Settings -->
